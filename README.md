@@ -1,2 +1,2 @@
 # polygloss_public
-Tracking issues, improvement and roadmap
+Tracking issues, improvements and roadmap
